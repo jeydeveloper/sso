@@ -1,0 +1,13 @@
+{
+  "login_success": true,
+  "error": {
+    "message": ""
+  },
+  "result": {
+    "user_info": {
+      "userid": "284914",
+      "username": "jjajax",
+      "joindate": "1469238929"
+    }
+  }
+}
